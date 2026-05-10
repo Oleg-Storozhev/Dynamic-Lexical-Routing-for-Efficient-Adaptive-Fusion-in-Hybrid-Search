@@ -1,4 +1,4 @@
-# Zero-Overhead Adaptive Fusion in Information Retrieval via Pre-Retrieval Lexical Routing
+# Dynamic Lexical Routing for Efficient Adaptive Fusion in Hybrid Search
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c)
